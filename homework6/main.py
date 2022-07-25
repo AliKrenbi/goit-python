@@ -5,7 +5,20 @@ import sort as parser
 from normalize import normalize
 
 
-def handle_media(filename: Path, target_folder: Path):
+def handle_audio(filename: Path, target_folder: Path):
+    target_folder.mkdir(exist_ok=True, parents=True)
+    filename.replace(target_folder / normalize(filename.name))
+
+
+def handle_documents(filename: Path, target_folder: Path):
+    target_folder.mkdir(exist_ok=True, parents=True)
+    filename.replace(target_folder / normalize(filename.name))
+
+def handle_images(filename: Path, target_folder: Path):
+    target_folder.mkdir(exist_ok=True, parents=True)
+    filename.replace(target_folder / normalize(filename.name))
+
+def handle_video(filename: Path, target_folder: Path):
     target_folder.mkdir(exist_ok=True, parents=True)
     filename.replace(target_folder / normalize(filename.name))
 

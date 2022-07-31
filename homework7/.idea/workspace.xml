@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fc48664-1814-4bd6-ab77-72fd3a55e2b0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/homework7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean_folder/.idea/clean_folder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/clean_folder/.idea/clean_folder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean_folder/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clean_folder/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean_folder/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clean_folder/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean_folder/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean_folder/clean_folder.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clean_folder/clean_folder.egg-info/SOURCES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean_folder/clean_folder.egg-info/dependency_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clean_folder/clean_folder.egg-info/dependency_links.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean_folder/clean_folder.egg-info/entry_points.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clean_folder/clean_folder.egg-info/entry_points.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean_folder/clean_folder.egg-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clean_folder/clean_folder.egg-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean_folder/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/clean_folder/setup.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Cg9iQSWaHZzgeSGR8BtAvLkPTI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/goit-python/homework7/clean_folder"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fc48664-1814-4bd6-ab77-72fd3a55e2b0" name="Changes" comment="" />
+      <created>1659213489355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659213489355</updated>
+    </task>
+    <servers />
+  </component>
+</project>
